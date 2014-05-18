@@ -13,12 +13,11 @@ Volume MAX!
 
 How to use
 ---------------------------------
-Servo1 Move to 30%  
+Servo1 Move to 30% (JavaScript Code)  
 `audioServo.moveServo1(30);`
 
-Servo2 Move to 80%  
-`audioServo.moveServo2(80);`
-
+Servo2 Move input value (HTML Code)  
+`<input type="range" onchange="audioServo.moveServo2(this.value)"/>`
 
 ---------------------------------------
 Copyright 2014 wakasa masao
