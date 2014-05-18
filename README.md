@@ -11,6 +11,10 @@ Support:
 Notes:
 Volume MAX!
 
+Sample
+---------------------------------
+http://jsdo.it/wakasamasao/audioSurvo
+
 How to use
 ---------------------------------
 Servo1 Move to 30% (JavaScript Code)  
