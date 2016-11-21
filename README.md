@@ -2,8 +2,12 @@ audioServo
 ==================
 You can control the servo moter in this library.
 
+==================
 GlueMotor official library (JavaScript and more.) is here!
+
 https://github.com/GlueMotor/GlueMotor
+==================
+
 
 [![Alt audioServo](http://img.youtube.com/vi/CpLsL01eqNA/0.jpg)  
 Youtube](http://www.youtube.com/watch?v=CpLsL01eqNA)
